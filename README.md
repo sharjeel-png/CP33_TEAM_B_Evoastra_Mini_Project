@@ -117,7 +117,8 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 |:--|:--|:--:|
 | **17th October 2025** | 1st Google Meet – Initial discussion, project planning | 🕛 12:00 PM |
 | **18th October 2025** | 2nd Google Meet – Progress review & code discussion | 🕚 11:00 AM |
-| **18th October 2025** | 3rd Google Meet – Final review & presentation planning | 🕣 8:30 PM |
+| **18th October 2025** | 3rd Google Meet – Final review & presentation planning stage 1 | 🕣 8:30 PM |
+| **19th October 2025** | 4rd Google Meet – Final review & presentation planning stage 2 | 🕣 9:00 AM |
 
 ---
 
@@ -130,11 +131,18 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 
 ## 👥 Team Members
 **Team B – CP33**  
-- [Your Name] – **Team Lead**  
+- [Team Lead Name] – **Team Lead**
+- [Co-Team Lead_1 Name] – **Co_Team Lead_1**
+- [Co-Team Lead_2 Name] – **Co_Team Lead_2**
 - [Intern Name 1]  
 - [Intern Name 2]  
 - [Intern Name 3]  
-- [Intern Name 4]  
+- [Intern Name 4]
+- [Intern Name 5]
+- [Intern Name 6]
+- [Intern Name 7]
+- [Intern Name 9]
+- [Intern Name 10]
 
 ---
 
