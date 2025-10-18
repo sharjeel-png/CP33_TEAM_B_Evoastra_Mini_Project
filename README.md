@@ -80,7 +80,7 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 |:--|:--|
 | **1️⃣ Python Notebook (.ipynb)** | A well-documented Jupyter Notebook containing Selenium-based scraping code. |
 | **2️⃣ Presentation File (PDF)** | A concise presentation summarizing objectives, workflow, challenges, and key results. |
-| **3️⃣ Project Report (PDF)** | A report explaining methodology, Selenium automation steps, challenges faced, and insights gained. |
+| **3️⃣ Project Report (.MD)** | A report explaining methodology, Selenium automation steps, challenges faced, and insights gained. |
 
 ---
 
@@ -117,8 +117,8 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 |:--|:--|:--:|
 | **17th October 2025** | 1st Google Meet – Initial discussion, project planning | 🕛 12:00 PM |
 | **18th October 2025** | 2nd Google Meet – Progress review & code discussion | 🕚 11:00 AM |
-| **18th October 2025** | 3rd Google Meet – Final review & presentation planning stage 1 | 🕣 8:30 PM |
-| **19th October 2025** | 4rd Google Meet – Final review & presentation planning stage 2 | 🕣 9:00 AM |
+| **18th October 2025** | 3rd Google Meet – Final review & presentation planning stage 1 | 🕣 08:30 PM |
+| **19th October 2025** | 4rd Google Meet – Final review & presentation planning stage 2 | 🕣 09:00 AM |
 
 ---
 
