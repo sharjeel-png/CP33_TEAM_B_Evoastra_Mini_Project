@@ -147,29 +147,6 @@ Analysis of scraped Honda car listings from Cars24.com reveals several key marke
 ### 🏆 The Undisputed Value King: Honda City
 - The Honda City is the most listed model in the used car market
 - It commands the highest resale prices among Honda's lineup
-- Recent automatic variants demonstrate exceptional value retention, often selling for **over ₹800,000** even after 3-4 years of use
-
-### ⚙️ Automatic Transmission Commands Major Premium
-- Across all models (City, Amaze, Jazz), CVT automatic transmission variants are consistently priced **₹50,000 - ₹200,000 higher** than their manual counterparts
-- Automatic variants show stronger demand and better value retention
-
-### 🚙 Diesel SUVs Hold Value Exceptionally Well
-- The Honda WR-V, especially its diesel version, shows almost no depreciation in some cases
-- Diesel variants often priced **₹100,000+ higher** than equivalent petrol models due to high demand
-
-### 📉 Steep Initial Depreciation Pattern
-- The biggest price drop occurs in the first 3-4 years
-- After this period, values for popular models like the City and Amaze stabilize
-- Reflects Honda's strong long-term reliability reputation
-
-### 🆕 New Model Impact on Market
-- The 2025 Honda Elevate is already appearing on the used market
-- Sets a new price benchmark for Honda's SUV lineup at **over ₹1.5 million**
-
-### ⏳ Age Trumps Mileage in Valuation
-- While lower kilometers help maintain value, the vehicle's age and model are the primary price drivers
-- A well-maintained, older Honda can be more expensive than a newer, less desirable model
-- Model popularity significantly influences long-term value retention
 
 ---
 
