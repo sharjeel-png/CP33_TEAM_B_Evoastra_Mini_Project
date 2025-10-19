@@ -72,6 +72,105 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 ### 4️⃣ Data Storage
 - Exported final structured data into a **CSV file** for analysis and reporting.  
 
+
+
+---
+
+## ⚙️ Tools & Libraries
+- **Python 3.x**
+- **Selenium**
+- **ChromeDriver**
+- **Pandas**
+- **Jupyter Notebook / Google Colab**
+
+---
+
+# 🔄 Data Extraction Process
+
+## **Technical Implementation**
+- Built Selenium-based scraper with intelligent scrolling for dynamic content
+- Developed robust CSS selectors for multi-field data extraction
+- Implemented headless browser automation with anti-detection measures
+
+## **Data Processing**
+- Created advanced parsers for kilometers and price conversion
+- Standardized transmission (Auto/Manual) and fuel type formats
+- Extracted brand/model from names and calculated vehicle age
+
+## **Quality Assurance**
+- Removed duplicates and validated data ranges
+- Maintained 100% data completeness with 0 missing values
+- Applied ethical scraping practices with rate limiting
+
+## **Results**
+- Successfully extracted 196 Honda vehicles from Cars24 Mumbai
+- Delivered cleaned dataset with parsed numerical values
+- Generated analysis-ready CSV files for market insights 
+
+---
+
+## 🔍 Learnings
+- Learned to automate browser operations using **Selenium WebDriver**.  
+- Gained practical understanding of **dynamic content scraping** using XPath and explicit waits.  
+- Improved teamwork through regular collaboration in Google Meets.  
+- Enhanced data organization and cleaning skills using **Pandas**.  
+- Developed awareness of **ethical web scraping practices** and performance optimization.  
+
+---
+# ⚠️ Challenges & Solutions
+
+## **Technical Challenges**
+- **Dynamic Content Loading**: Pages loaded content progressively via scrolling
+- **Price Format Variability**: Multiple price formats and display patterns
+- **Anti-Bot Detection**: Website protection against automated scraping
+
+## **Solutions Implemented**
+- **Intelligent Scrolling**: Developed multi-pass scrolling with content detection
+- **Multi-layer Parsing**: Created fallback strategies for price extraction
+- **Stealth Configuration**: Configured browser options to avoid detection
+
+## **Data Quality Issues**
+- **Inconsistent Formatting**: Varied kilometer and price representations
+- **Duplicate Listings**: Multiple entries for same vehicles
+- **Missing Model Information**: Incomplete car naming patterns
+
+## **Data Processing Solutions**
+- **Regex-based Cleaners**: Built specialized parsers for each data type
+- **Duplicate Removal**: Implemented multi-column deduplication logic
+- **Model Extraction**: Created known-model lookup system for classification
+---
+
+## 📊 Honda Used Car Market Insights (Based on Scraped Data)
+
+Analysis of scraped Honda car listings from Cars24.com reveals several key market trends:
+
+### 🏆 The Undisputed Value King: Honda City
+- The Honda City is the most listed model in the used car market
+- It commands the highest resale prices among Honda's lineup
+- Recent automatic variants demonstrate exceptional value retention, often selling for **over ₹800,000** even after 3-4 years of use
+
+### ⚙️ Automatic Transmission Commands Major Premium
+- Across all models (City, Amaze, Jazz), CVT automatic transmission variants are consistently priced **₹50,000 - ₹200,000 higher** than their manual counterparts
+- Automatic variants show stronger demand and better value retention
+
+### 🚙 Diesel SUVs Hold Value Exceptionally Well
+- The Honda WR-V, especially its diesel version, shows almost no depreciation in some cases
+- Diesel variants often priced **₹100,000+ higher** than equivalent petrol models due to high demand
+
+### 📉 Steep Initial Depreciation Pattern
+- The biggest price drop occurs in the first 3-4 years
+- After this period, values for popular models like the City and Amaze stabilize
+- Reflects Honda's strong long-term reliability reputation
+
+### 🆕 New Model Impact on Market
+- The 2025 Honda Elevate is already appearing on the used market
+- Sets a new price benchmark for Honda's SUV lineup at **over ₹1.5 million**
+
+### ⏳ Age Trumps Mileage in Valuation
+- While lower kilometers help maintain value, the vehicle's age and model are the primary price drivers
+- A well-maintained, older Honda can be more expensive than a newer, less desirable model
+- Model popularity significantly influences long-term value retention
+
 ---
 
 ## 📦 Deliverables
@@ -82,35 +181,6 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 | **2️⃣ Presentation File (PDF)** | A concise presentation summarizing objectives, workflow, challenges, and key results. |
 | **3️⃣ Project Report (.MD)** | A report explaining methodology, Selenium automation steps, challenges faced, and insights gained. |
 
----
-
-## ⚙️ Tools & Libraries
-- **Python 3.x**
-- **Selenium**
-- **ChromeDriver / EdgeDriver**
-- **Pandas**
-- **Jupyter Notebook / Google Colab**
-
----
-
-## ⚡ Example Workflow
-1. Launch browser using Selenium WebDriver  
-2. Navigate to Cars24.com and filter listings for **Honda** in **Mumbai**  
-3. Extract car data dynamically using XPath  
-4. Organize the data in a Pandas DataFrame  
-5. Export the final results to `cars_data.csv`  
-
----
-
-## 🔍 Insights & Learnings
-- Learned to automate browser operations using **Selenium WebDriver**.  
-- Gained practical understanding of **dynamic content scraping** using XPath and explicit waits.  
-- Improved teamwork through regular collaboration in Google Meets.  
-- Enhanced data organization and cleaning skills using **Pandas**.  
-- Developed awareness of **ethical web scraping practices** and performance optimization.  
-
----
-
 ## 📅 Project Timeline
 
 | Date | Event | Time |
@@ -118,32 +188,18 @@ Cars listed on **Cars24.com** from **three locations**, primarily **Mumbai**.
 | **17th October 2025** | 1st Google Meet – Initial discussion, project planning | 🕛 12:00 PM |
 | **18th October 2025** | 2nd Google Meet – Progress review & code discussion | 🕚 11:00 AM |
 | **18th October 2025** | 3rd Google Meet – Final review & presentation planning stage 1 | 🕣 08:30 PM |
-| **19th October 2025** | 4rd Google Meet – Final review & presentation planning stage 2 | 🕣 09:00 AM |
-
----
-
-## ⚠️ Special Instructions
-- If **Honda** cars are not listed in **Mumbai**, change the location and note it in your report.  
-- Maintain ethical scraping practices and comply with **Cars24’s Terms of Service**.  
-- Use appropriate **wait times** (`WebDriverWait`) to avoid overloading the website.  
+| **19th October 2025** | 4rd Google Meet – Final review & presentation planning stage 2 | 🕣 11:30 AM |
 
 ---
 
 ## 👥 Team Members
 **Team B – CP33**  
-- [Team Lead Name] – **Team Lead**
-- [Co-Team Lead_1 Name] – **Co_Team Lead_1**
-- [Co-Team Lead_2 Name] – **Co_Team Lead_2**
-- [Intern Name 1]  
-- [Intern Name 2]  
-- [Intern Name 3]  
-- [Intern Name 4]
-- [Intern Name 5]
-- [Intern Name 6]
-- [Intern Name 7]
-- [Intern Name 9]
-- [Intern Name 10]
-
+- **MOHAMMAD SHARJEEL YAZDANI** – Team Lead
+- **Rishabh Tanpure** – Co-Lead 1  
+- **Samradnyi Kale** – Co-Lead 2
+- **Sakshi Giglani** – Member
+- **MONU KUMAR JHA** – Member
+- **Sriya Sahu** – Member
 ---
 
 ## 🏢 Organization
@@ -158,4 +214,3 @@ Unauthorized redistribution or commercial use of scraped data is strictly prohib
 
 ---
 
-**Good luck, and happy scraping with Selenium! 🚀**
