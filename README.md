@@ -191,3 +191,7 @@ Unauthorized redistribution or commercial use of scraped data is strictly prohib
 
 ---
 
+## Presentation
+
+👉 View the presentation on Canva:  
+[Open Canva Presentation](https://www.canva.com/design/DAGhJcUxGvg/tFS1BFnL2h_JB_hsrOJqIQ/edit?utm_content=DAGhJcUxGvg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
