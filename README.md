@@ -175,7 +175,7 @@ Analysis of scraped Honda car listings from Cars24.com reveals several key marke
 - **Rishabh Tanpure** – Co-Lead 1  
 - **Samradnyi Kale** – Co-Lead 2
 - **Sakshi Giglani** – Member
-- **MONU KUMAR JHA** – Member
+- **Monu Kumar Jha** – Member
 - **Sriya Sahu** – Member
 ---
 
